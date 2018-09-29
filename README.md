@@ -1,18 +1,14 @@
-# [NOME DA DISCIPLINA] X sem. 20XX
+# [OBJETOS INTELIGENTES CONECTADOS] 5 sem. 2018
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 5K12
+## Projeto: "PlantCare"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
+* Cassiano da Silva Dias Carvalho 31586899
 
 ## Descrição resumida do projeto
 
-Descreva resumidamente o projeto aqui.
-
+Será desenvolvida uma estufa automatizada para cuidar de plantas de maneira remota, será possivel conhecer a humidade da terra e a temperatura do ambiente, por meio de motores o sitema irá regar as plantas, para controlar a temperatura hambiente será utilizada uma lampada com capacidade reguladorade luz.
 _______________________________________
 Obs:
 
