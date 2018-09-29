@@ -1,22 +1,20 @@
 # Documento de Visão do Projeto "NOME DO PROJETO"
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, 
+Este documento apresenta uma solução de software para o projeto *"PLANTCARE"*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas.
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* etc.
+* Cultivar plantas mais saudáveis;
+* Controlar com mais inteligencia o ambiente de cultivo;
+* Melhorar os cuidados que devem ser dispensados para o cultivo;
 
 ## Problema
 
-* Descrição do problema: ___
-* Quem é afetado pelo problema: ____
-* Impacto no negócio: ___
-* Benefícios de uma boa solução: ___
-
+* Descrição do problema: é dificil controlar com precisão a quantidade de água e o nível e temperatura de uma estufa.
+* Quem é afetado pelo problema: as plantas crescem com problemas de formação, folhas amareladas, não dão flor e podem morrer de sede, afogadas, queimadas com o calor ou não e desenvolvem com o frio.
+* Impacto no negócio: plantas ornamentáis e frutíferas quando não cultivadas corretamente crecem disfomes e podem nao florecer ou frutifivar prejudicando diretamente no intuito do cultivo.
+* Benefícios de uma boa solução: A produção tanto de plantas ornamentais como frutíferas terá menor porcentagem de perdas, as plantas crescerão com maiores chanses de serem saudáveis e apresentarão menos defetidos.
 ## Definições, abreviações e outros termos do domínio do problema
 
 * Definição 1
