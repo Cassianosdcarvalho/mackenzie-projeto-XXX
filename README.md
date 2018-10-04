@@ -8,7 +8,7 @@
 
 ## Descrição resumida do projeto
 
-Será desenvolvida uma estufa automatizada para cuidar de plantas de maneira remota, será possivel conhecer a humidade da terra e a temperatura do ambiente, por meio de motores o sitema irá regar as plantas, para controlar a temperatura hambiente será utilizada uma lampada com capacidade reguladorade luz.
+Será desenvolvida uma estufa automatizada para cuidar de plantas de maneira remota, será possivel conhecer a humidade da terra e a temperatura do ambiente, por meio de motores o sitema irá regar as plantas, para controlar a temperatura ambiente será utilizada uma lampada com capacidade reguladorade luz.
 _______________________________________
 Obs:
 
