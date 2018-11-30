@@ -1,4 +1,4 @@
-# Documento de Visão do Projeto "NOME DO PROJETO"
+# Documento de Visão do Projeto "PLANTCARE"
 
 Este documento apresenta uma solução de software para o projeto *"PLANTCARE"*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas.
@@ -24,37 +24,29 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ## Integração com outros sistemas
 
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+Utiliza o BLINK  para visualizar as informações dos sensores.
  
 ## Interessados
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
+Donos de jardins
+Pessoas que usam estufa de plantas caseira,
+Industria agropecuaria.
+
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* monitorarar o solo;
+* monitorar o ar
+* identifica ual planta deve ter determinada quantidade de água.
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
+* tamanho do ambiente ou estufa;
+
 
 ## Protótipos
 
